@@ -13,7 +13,7 @@ ifdiff is a tool that helps you run commands conditionally based on which files 
 ### From Source
 
 ```bash
-go get github.com/ocuroot/ifdiff/cmd/ifdiff
+go install github.com/ocuroot/ifdiff/cmd/ifdiff@latest
 ```
 
 ### Pre-built Binaries
