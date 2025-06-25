@@ -5,9 +5,8 @@ import (
 	"fmt"
 	"os"
 	"os/exec"
-	"path/filepath"
 
-	"github.com/gobwas/glob"
+	"github.com/halimath/glob"
 	"github.com/ocuroot/ifdiff"
 )
 
@@ -96,7 +95,7 @@ func main() {
 func match(patterns []string, files []string) ([]string, error) {
 	var matches []string
 	for _, pattern := range patterns {
-		g, err := glob.Compile(pattern, filepath.Separator)
+		g, err := glob.New(pattern)
 		if err != nil {
 			return nil, err
 		}

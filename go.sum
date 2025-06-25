@@ -1,7 +1,11 @@
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/gobwas/glob v0.2.3 h1:A4xDbljILXROh+kObIiy5kIaPYD8e96x1tgBhUI5J+Y=
-github.com/gobwas/glob v0.2.3/go.mod h1:d3Ez4x06l9bZtSvzIay5+Yzi0fmZzPgnTbPcKjJAkT8=
+github.com/halimath/expect v0.5.1 h1:RJ9WolOvpNZSbnmGBamTaS/YcVbl07cU175z4RUlkJg=
+github.com/halimath/expect v0.5.1/go.mod h1:JQW7orDfymPLKrvFgWl12qL2Q6bBXbRDg1S1PMgRI9A=
+github.com/halimath/fsx v0.0.0-20240304090537-61da67dbdfd8 h1:wwdkNK67S+v2NZ7DxlTE92Y05dMcfV2Zm6n/ipnMo64=
+github.com/halimath/fsx v0.0.0-20240304090537-61da67dbdfd8/go.mod h1:sgBW7UdsN/P3ekCfJDT+DMd8uEI6XRot0VNJFSHRk9U=
+github.com/halimath/glob v0.0.0-20240305210839-5b9d6e76f6fc h1:EtnoJSwMYBYUq2WEfhPRd2C/xX33XVW82ssyxx1p6hY=
+github.com/halimath/glob v0.0.0-20240305210839-5b9d6e76f6fc/go.mod h1:3qIwM2YknUVZiHf3vRWym3wPxrw/sD6JoatQEPIqN5w=
 github.com/ocuroot/gittools v0.0.6 h1:u74Nld6jwSukWoLTEO99Jq8w4018b7WQ8A4epDWVJjI=
 github.com/ocuroot/gittools v0.0.6/go.mod h1:P1JPg9N9xTbmew7IjgmGDeBAk9K4I/vcWsLRXBiEQF8=
 github.com/oklog/ulid/v2 v2.1.0 h1:+9lhoxAP56we25tyYETBBY1YLA2SaoLvUFgrP2miPJU=
